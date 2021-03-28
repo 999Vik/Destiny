@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body{
+    font-family: 'Poppins', serif;
+    background-color: white;
+}
+
+button{
+    font-family: 'Poppins', serif;
+    outline: none;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+input{
+    outline: none;
+}
+#right{
+    position: absolute;
+    width: 720px;
+    height: 900px;
+    left: 720px;
+    top: 0px;
+    
+    background: linear-gradient(180deg, #FF8718 0%, #C8380B 100%);
+}
+#join{
+    position: absolute;
+    width: 160px;
+    height: 28px;
+    left: 55px;
+    top: 100px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#email{
+    position: absolute;
+    width: 121px;
+    height: 28px;
+    left: 55px;
+    top: 222px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#enterEmail{
+    position: absolute;
+    width: 591px;
+    height: 86px;
+    left: 55px;
+    top: 286px;
+    
+    background: #F5F5F5;
+}
+#password{
+    position: absolute;
+    width: 168px;
+    height: 28px;
+    left: 55px;
+    top: 422px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+}
+#enterPass{
+    position: absolute;
+    width: 168px;
+    height: 28px;
+    left: 55px;
+    top: 422px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#RePassword{
+    position: absolute;
+    width: 202px;
+    height: 28px;
+    left: 55px;
+    top: 584px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#ReEnterPass{
+    position: absolute;
+    width: 591px;
+    height: 86px;
+    left: 55px;
+    top: 637px;
+    
+    background: #F5F5F5;
+}
+#signUp{
+    position: absolute;
+    width: 84px;
+    height: 28px;
+    left: 300px;
+    top: 765px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+
+    position: absolute;
+    width: 293px;
+    height: 68px;
+    left: 196px;
+    top: 745px;
+    
+    background: linear-gradient(180deg, #FF8718 0%, #C8380B 100%);
+    border-radius: 20px;
+}

@@ -21,14 +21,14 @@
     background: linear-gradient(180deg, #FF8718 0%, #C8380B 100%);
   }
   
-  /* If you want the content centered horizontally and vertically */
+  /* If you want the content centered horizontally and vertically
   .centered {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-  }
+  } */
   
   /* Style the image inside the centered container, if needed */
   .centered img {
@@ -36,20 +36,27 @@
     height: 422px;
   }
 
-  #logIn {
-    border: none;
-    color:linear-gradient(180deg, #FF8718 0%, #C8380B 100%);
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+  #logIN {
+    position: absolute;
+    width: 84px;
+    height: 28px;
+    left: 300px;
+    top: 765px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
     font-size: 24px;
-    margin: 4px 2px;
-    cursor: pointer;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+
     position: absolute;
     width: 293px;
     height: 68px;
-    left: 185px;
-    top: 630px;
+    left: 196px;
+    top: 745px;
+    
+    background: linear-gradient(180deg, #FF8718 0%, #C8380B 100%);
+    border-radius: 20px;
   }
-  
