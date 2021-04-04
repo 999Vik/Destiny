@@ -1,0 +1,242 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ html {
+    scroll-behavior: smooth;
+  }
+
+body{
+    font-family: 'Poppins', serif;
+    background-color: white;
+}
+
+button{
+    font-family: 'Poppins', serif;
+    outline: none;
+    cursor: pointer;
+    border: none;
+}
+a{
+    text-decoration: none;
+}
+input{
+    outline: none;
+    font-size: 30px;
+    border: none;
+} 
+#main{
+    position: absolute;
+width: 1440px;
+height: 1360px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(190, 52, 52, 0.78) 0%, #E4B743 100%);
+}
+#welcome{
+    position: absolute;
+    width: 660px;
+    height: 56px;
+    left: 96px;
+    top: 55px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    
+    color: #FFFFFF;
+}
+#name{
+    position: absolute;
+    width: 124px;
+    height: 28px;
+    left: 96px;
+    top: 173px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#Lname{
+    position: absolute;
+    width: 122px;
+    height: 28px;
+    left: 96px;
+    top: 383px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#edu{
+    position: absolute;
+    width: 196px;
+    height: 28px;
+    left: 756px;
+    top: 173px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#coun{
+    position: absolute;
+    width: 90px;
+    height: 28px;
+    left: 756px;
+    top: 383px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+}
+#comp{
+    position: absolute;
+    width: 261px;
+    height: 28px;
+    left: 96px;
+    top: 593px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#sport{
+    position: absolute;
+    width: 149px;
+    height: 28px;
+    left: 756px;
+    top: 593px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#desc{
+    position: absolute;
+    width: 128px;
+    height: 28px;
+    left: 96px;
+    top: 789px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+#nameT{
+    position: absolute;
+    width: 591px;
+    height: 86px;
+    left: 96px;
+    top: 235px;
+    
+    background: #F5F5F5;
+}
+#eduT{
+    position: absolute;
+    width: 591px;
+    height: 86px;
+    left: 756px;
+    top: 235px;
+    
+    background: #F5F5F5;
+}
+#LnameT{
+    position: absolute;
+    width: 591px;
+    height: 86px;
+    left: 96px;
+    top: 445px;
+    
+    background: #F5F5F5;
+}
+#counT{
+    position: absolute;
+    width: 591px;
+    height: 86px;
+    left: 756px;
+    top: 445px;
+    
+    background: #F5F5F5;
+}
+#compT{
+    position: absolute;
+    width: 591px;
+    height: 86px;
+    left: 96px;
+    top: 655px;
+    
+    background: #F5F5F5;
+}
+#descT{
+    position: absolute;
+    width: 1251px;
+    height: 86px;
+    left: 96px;
+    top: 865px;
+    
+    background: #F5F5F5;
+}
+#sportT{
+    position: absolute;
+    width: 591px;
+    height: 86px;
+    left: 756px;
+    top: 655px;
+    
+    background: #F5F5F5
+}
+#signUp{
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+    position: absolute;
+    width: 280px;
+    height: 68px;
+    left: 582px;
+    top: 1040px;
+    
+    background: linear-gradient(180deg, #FF8718 0%, #C8380B 100%);
+    border-radius: 20px;
+}
