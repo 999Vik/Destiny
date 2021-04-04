@@ -29,10 +29,10 @@ input{
 } 
 #main{
     position: absolute;
-    width: 1440px;
-    height: 1360px;
-    left: 0px;
-    top: 0px;
+width: 1440px;
+height: 1360px;
+left: 0px;
+top: 0px;
 
 background: linear-gradient(180deg, rgba(190, 52, 52, 0.78) 0%, #E4B743 100%);
 }
@@ -83,7 +83,7 @@ background: linear-gradient(180deg, rgba(190, 52, 52, 0.78) 0%, #E4B743 100%);
 }
 #edu{
     position: absolute;
-    width: 196px;
+    width: 496px;
     height: 28px;
     left: 756px;
     top: 173px;
