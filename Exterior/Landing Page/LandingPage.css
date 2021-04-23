@@ -149,7 +149,7 @@
     transform: rotate(160deg);
   }
 #login{
-  font-family: Roboto;
+font-family: Roboto;
 font-style: normal;
 font-weight: bold;
 font-size: 24px;
@@ -187,37 +187,4 @@ color: #FFFFFF;
   height: 106.45px;
   top: 1.43px;
   left: 26.21px;
-}
-#sq1b{
-  position: absolute;
-  width: 184px;
-  height: 120px;
-  left: 1265.9px;
-  top: 421.69px;
-  
-  background: rgba(233, 173, 77, 0.5);
-  border-radius: 30px;
-  transform: rotate(-160deg);
-}
-#sq2b{
-  position: absolute;
-  width: 184px;
-  height: 120px;
-  left: 1062.9px;
-  top: 599.69px;
-
-  background: rgba(15, 233, 23, 0.5);
-  border-radius: 30px;
-  transform: rotate(-160deg);
-}
-#sq3b{
-  position: absolute;
-  width: 184px;
-  height: 120px;
-  left: 1329.49px;
-  top: 716.76px;
-
-  background: rgba(77, 223, 255, 0.5);
-  border-radius: 30px;
-  transform: rotate(160deg);
 }
