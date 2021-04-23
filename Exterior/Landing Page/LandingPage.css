@@ -99,7 +99,7 @@
   top: 450px;
   z-index: 950;
   
-  background: #3AE01F;
+  background: #61D14E;
   border-radius: 30px;
 }
 #sq3{
@@ -110,7 +110,7 @@
   top: 629px;
   z-index: 950;
   
-  background: #4DDFFF;
+  background: #4FB8CF;
   border-radius: 30px;
 }
 #sq1b{
@@ -133,7 +133,7 @@
     left: 905px;
     z-index: 900;
     
-    background: rgba(15, 233, 23, 0.5);
+    background: rgba(39, 173, 44, 0.5);
     border-radius: 30px;
     transform: rotate(-160deg);
   }
@@ -145,7 +145,7 @@
     top: 630px;
     z-index: 900;
     
-    background: rgba(77, 223, 255, 0.5);
+    background: rgba(75, 162, 181, 0.5);
     border-radius: 30px;
     transform: rotate(160deg);
   }
