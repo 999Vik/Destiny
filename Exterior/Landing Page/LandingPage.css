@@ -86,7 +86,7 @@
   left: 1106px;
   top: 277px;
   
-  background: #E9AD4D;
+  background: #EEA837;
   border-radius: 30px;
 }
 #sq2{
@@ -113,8 +113,9 @@
     position: absolute;
     width: 184px;
     height: 120px;
-    left: 1265.9px;
+    left: 1000px;
     top: 421.69px;
+    z-index: -1;
     
     background: rgba(233, 173, 77, 0.5);
     border-radius: 30px;
