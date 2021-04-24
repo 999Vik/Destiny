@@ -125,3 +125,35 @@ color: #FFFFFF;
     background: linear-gradient(180deg, #EC5736 17.19%, #FFE818 100%);
     border-radius: 20px;
 }
+#desc1{
+    position: absolute;
+    width: 204px;
+    height: 54px;
+    left: 15px;
+    top: 13px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    
+    
+    color: #FFF9F9;
+}
+#desc2{
+    position: absolute;
+    width: 1345px;
+    height: 169px;
+    left: 16px;
+    top: 128px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #FFF9F9;
+}
