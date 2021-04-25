@@ -66,24 +66,26 @@ color: #FFFFFF;
     border-radius: 40px;
 }
 #pfp{
-    position: absolute;
+    position: relative;
     width: 336px;
     height: 336px;
     left: 25px;
     top: 248px;
+    overflow: hidden;
     border-radius: 50%;
     
     background: #FFD037;
 }
 #vikPfp{
-    position: absolute;
-    width: 330px;
-    height: 312px;
-    left: 15px;
-    top: 11px;
-    right: 15px;
-    bottom: 11px;
+  position: absolute;
+  width: 315px;
+  height: 315px;
+  left: 37px;
+  top: 260px;
+  border-radius: 50%;
 }
+
+
 #vik{
     position: absolute;
     width: 518px;
