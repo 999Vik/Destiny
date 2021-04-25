@@ -76,13 +76,12 @@ color: #FFFFFF;
     background: #F54B26;
 }
 #tahmeedPfp{
-    position: absolute;
-    width: 330px;
-    height: 312px;
-    left: 15px;
-    top: 11px;
-    right: 15px;
-    bottom: 11px;
+  position: absolute;
+  width: 315px;
+  height: 315px;
+  left: 37px;
+  top: 260px;
+  border-radius: 50%;
 }
 #tahmeed{
     white-space: nowrap ;
