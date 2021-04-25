@@ -101,6 +101,7 @@ color: #FFFFFF;
     color: #000000;
 }
 #bio{
+    white-space: nowrap ;
     position: absolute;
     width: 36px;
     height: 36px;
