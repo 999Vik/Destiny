@@ -157,3 +157,84 @@ color: #FFFFFF;
     
     color: #FFF9F9;
 }
+#pclogo{
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  left: 879px;
+  top: 513px;
+  
+  background: url(image.png);
+  border-radius: 20px;
+}
+#schoolN{
+  white-space: nowrap ;
+  position: absolute;
+  width: 235px;
+  height: 54px;
+  left: 971px;
+  top: 521px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 54px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+  
+}
+#espn{
+  position: absolute;
+  width: 63px;
+  height: 68px;
+  left: 879px;
+  top: 609px;
+  
+  background: url(star.png);
+}
+#ERating{
+  position: absolute;
+width: 326px;
+height: 54px;
+left: 971px;
+top: 619px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#countryImg{
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  left: 875px;
+  top: 707px;
+
+}
+#Country{
+  position: absolute;
+  width: 243px;
+  height: 54px;
+  left: 971px;
+  top: 717px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 54px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+
+}

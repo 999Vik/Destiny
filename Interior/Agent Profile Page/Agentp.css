@@ -1,0 +1,242 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body{
+    font-family: 'Poppins', serif;
+    background-color: white;
+  }
+  
+  button{
+    font-family: 'Poppins', serif;
+    outline: none;
+    cursor: pointer;
+    border: none;
+  }
+  a{
+    text-decoration: none;
+  }
+  input{
+    outline: none;
+    font-size: 30px;
+    border: none;
+  } 
+
+  #pcBack{
+    position: absolute;
+width: 1440px;
+height: 476px;
+left: 0px;
+top: 0px;
+
+border-radius: 20px;
+  }
+#connect{
+
+    position: absolute;
+width: 119px;
+height: 38px;
+left: 1189px;
+top: 379px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+    position: absolute;
+    width: 244px;
+    height: 86px;
+    left: 1127px;
+    top: 355px;
+    
+    background: #F54B26;
+    border-radius: 40px;
+}
+#pfp{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    left: 25px;
+    top: 248px;
+    border-radius: 50%;
+    
+    background: #F54B26;
+}
+#tahmeedPfp{
+    position: absolute;
+    width: 330px;
+    height: 312px;
+    left: 15px;
+    top: 11px;
+    right: 15px;
+    bottom: 11px;
+}
+#tahmeed{
+    white-space: nowrap ;
+    position: absolute;
+    width: 518px;
+    height: 106px;
+    left: 25px;
+    top: 584px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 96px;
+    
+    color: #000000;
+}
+#bio{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 25px;
+    top: 693px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+#bottom{
+    position: absolute;
+    width: 1417px;
+    height: 335px;
+    left: 10px;
+    top: 809px;
+    
+    background: linear-gradient(180deg, #DD2525 0%, rgba(255, 135, 24, 0.86) 100%);
+    border-radius: 20px;
+}
+#desc1{
+    position: absolute;
+    width: 204px;
+    height: 54px;
+    left: 15px;
+    top: 13px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    
+    
+    color: #FFF9F9;
+}
+#desc2{
+    position: absolute;
+    width: 1345px;
+    height: 169px;
+    left: 16px;
+    top: 128px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #FFF9F9;
+}
+#klutch{
+  position: absolute;
+  width: 64px;
+  height: 61.6px;
+  left: 881px;
+  top: 517px;
+  
+  background: url(Capture.png);
+}
+#companyN{
+  position: absolute;
+  width: 235px;
+  height: 54px;
+  left: 971px;
+  top: 521px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 54px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+  
+}
+#duke{
+  position: absolute;
+width: 94px;
+height: 41px;
+left: 866px;
+top: 625px;
+
+background: url(Capture.png);
+}
+#education{
+  position: absolute;
+width: 326px;
+height: 54px;
+left: 971px;
+top: 619px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#USAImg{
+  position: absolute;
+  width: 94px;
+  height: 50.89px;
+  left: 866px;
+  top: 720px;
+  
+  background: url(flags_PNG14592.png);
+
+}
+#CountryUSA{
+  position: absolute;
+  width: 243px;
+  height: 54px;
+  left: 971px;
+  top: 717px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 54px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+
+}
+
