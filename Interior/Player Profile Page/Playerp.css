@@ -30,12 +30,13 @@
 
   #pcBack{
     position: absolute;
-width: 1440px;
-height: 476px;
-left: 0px;
-top: 0px;
-
-border-radius: 20px;
+    width: 1461px;
+    height: 499px;
+    left: -21px;
+    top: -16px;
+    
+    background: url(c0.jpg);
+    border-radius: 20px;
   }
 #connect{
 
@@ -157,14 +158,12 @@ color: #FFFFFF;
     
     color: #FFF9F9;
 }
-#pclogo{
+#pcLogo{
   position: absolute;
   width: 64px;
   height: 64px;
   left: 879px;
   top: 513px;
-  
-  background: url(image.png);
   border-radius: 20px;
 }
 #schoolN{
@@ -221,6 +220,7 @@ color: #000000;
 
 }
 #Country{
+  white-space: nowrap ;
   position: absolute;
   width: 243px;
   height: 54px;

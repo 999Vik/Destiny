@@ -30,12 +30,13 @@
 
   #pcBack{
     position: absolute;
-width: 1440px;
-height: 476px;
-left: 0px;
-top: 0px;
-
-border-radius: 20px;
+    width: 1461px;
+    height: 499px;
+    left: -21px;
+    top: -16px;
+    
+    background: url(c0.jpg);
+    border-radius: 20px;
   }
 #connect{
 
@@ -164,8 +165,6 @@ color: #FFFFFF;
   height: 61.6px;
   left: 881px;
   top: 517px;
-  
-  background: url(Capture.png);
 }
 #companyN{
   position: absolute;
@@ -187,12 +186,10 @@ color: #FFFFFF;
 }
 #duke{
   position: absolute;
-width: 94px;
-height: 41px;
-left: 866px;
-top: 625px;
-
-background: url(Capture.png);
+  width: 67px;
+  height: 60px;
+  left: 878px;
+  top: 616px;
 }
 #education{
   position: absolute;
@@ -217,9 +214,6 @@ color: #000000;
   height: 50.89px;
   left: 866px;
   top: 720px;
-  
-  background: url(flags_PNG14592.png);
-
 }
 #CountryUSA{
   position: absolute;

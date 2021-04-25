@@ -12,8 +12,7 @@
     font-family: 'Poppins', serif;
     background-color: white;
   }
-  
-  button{
+  button {
     font-family: 'Poppins', serif;
     outline: none;
     cursor: pointer;
@@ -162,7 +161,7 @@ color: #FFFFFF;
   width: 176px;
   height: 68px;
   left: 1135px;
-  top: 104px;
+  top: 104px; 
   
   background: linear-gradient(180deg, #FF8718 0%, #C8380B 100%);
   border-radius: 70px;
